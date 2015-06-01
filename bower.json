@@ -1,0 +1,25 @@
+{
+  "name": "meanStack",
+  "version": "0.0.0",
+  "authors": [
+    "ksc4130 <ksc4130@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.1",
+    "angular": "~1.4.0",
+    "angular-resource": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "bootstrap": "~3.3.4",
+    "angular-mocks": "~1.4.0"
+  }
+}
